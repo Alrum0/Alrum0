@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Andrey Stavytskiy 👋 
 
-<!--
-**Alrum0/Alrum0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** | Passionate about building scalable web applications and clean code.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+-  From Ukraine, currently based in Poland  
+-  I work with modern web technologies  
+-  Constantly learning and improving my skills  
+-  Goal: to grow as a professional and contribute to impactful projects  
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** JavaScript (ES6+), React, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** PostgreSQL, Sequelize  
+- **Other Tools:** Git, Docker, WebSockets  
+
+---
+
+## 📈 GitHub Stats
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alrum0&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alrum0&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to reach me
+- ✉️ [Email](mailto:stavytskiyandrey@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrey-stavytskyi-8a89a3329/)  
+
+---
+
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
